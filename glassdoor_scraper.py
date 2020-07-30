@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Author : Rachit Jauhari
+Author: Kenarapfaik
+url: https://github.com/arapfaik/scraping-glassdoor-selenium 
 Date : July 27, 2020
 """
 

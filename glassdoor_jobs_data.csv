@@ -1,0 +1,698 @@
+Job Title,Salary Estimate,Job Description,Rating,Company Name,Location,Headquarters,Size,Founded,Type of ownership,Industry,Sector,Revenue,Competitors
+Product Data Scientist,CA$97K-CA$126K (Glassdoor Est.),"Coffee Meets Bagel
+Coffee Meets Bagel's mission is to give everyone a chance at love. The app curates quality matches with fuller profiles that result in real conversations. Globally, CMB has generated millions of real dates and thousands of lasting relationships. Coffee Meets Bagel was named one of the Top 10 Dating apps by Time Magazine and the Best Dating App for Women by Refinery29. It has also been voted the #1 recommended dating app for singles looking for relationships.
+
+Job description
+Each day, our users visit our app with the hope of connecting with someone. These interactions generate millions of data points that can be used to help us better understand our customers’ experiences. We need you to ask and answer the questions that will transform this data into a better understanding of what our customers find delightful and what they find painful so that you can help drive changes that further our vision of helping singles form meaningful connections with other amazing singles!
+
+The Product Data Scientist will be responsible for partnering with our product and growth teams to provide the facts needed to make better decisions and to help push our products and services to better serve our customers. You will be responsible for building a strong understanding of our ecosystem, working with the product team to determine which projects are the most important, and being willing to use the right tool (a scripted model, a dashboard, a presentation) to find and explain relevant information and insight that will help the company operate better.
+
+
+Responsibilities
+Work cross-functionally with product, design, finance, and engineering teams to provide data-driven insights that will help define the product & marketing roadmap and drive significant increase in core business KPIs (growth, revenue, engagement).
+Create internal dashboards to monitor the health of the product and business KPIs (growth, revenue, engagement).
+Deliver ad-hoc analyses and reports to support business needs, investigate, triage and resolve metrics-based issues without heavy guidance.
+Assist in feature development from ideation to execution, including helping with user research, determining the best way to test new product features, and running deep analysis of feature performance post launch.
+Create and share compelling presentations that motivates and inspires the team to build with conviction.
+When necessary, build models in R, Python, or other systems that help us better measure and understand the results of experiments or user flows.
+Qualifications
+Bachelors in a quantitative field and 3+ years post-collegiate work experience as an analyst or data scientist; or a Masters/PhD in a quantitative field with 1+ years relevant experience.
+Experience applying statistics to rigorously analyze data and derive insights to solve ambiguous problems.
+Expertise designing and evaluating randomized controlled experiments. Familiarity with quasi-experiments is a plus.
+High proficiency in SQL & business intelligence tools (e.g., Mode, Tableau, etc).
+Capable of condensing data and telling a persuasive story to technical and non-technical audiences.
+Self-starter, with ability to thrive in a dynamic, fast-paced environment, drive change through influence, and collaborate effectively with a variety of cross-functional stakeholders. Excited and hungry to try new tools and processes to achieve results.
+Passionate about building delightful products for our customers.
+Competency in R, Python, or another scripting language is a plus.
+
+This role is only for candidates in Ontario, Canada .",4.4,"Coffee Meets Bagel
+4.4",Toronto,"San Francisco, CA",51 to 200 employees,2012,Company - Private,Computer Hardware & Software,Information Technology,$1 to $5 million (CAD),-1
+Data Scientist,CA$97K-CA$126K (Glassdoor Est.),"Wanted: A Data visualisation expert who will help us transform customer data into actionable insight
+
+PN is looking for an ambitious, persuasive data visualization guru who’s passionate about health, fitness and helping people live their best life.
+
+Precision Nutrition is growing, and we need a results-driven business intelligence analyst to mine our customer data, develop analysis and deliver recommendations to product and digital marketing groups. As one of the largest nutrition coaching companies in the world, PN is bigger than it’s ever been — and it’s about to get bigger.
+
+To help us scale, we need a data visualization specialist who knows how to synthesize data into plain English so we can help millions more people live healthier, happier lives.
+
+Join our Adventure
+
+We’re embarking on a new adventure, and we need a multi-talented data scientist to drive the analysis that strengthens our product offers
+
+We’ve got an exciting journey ahead of us… Over the next 10 years, Precision Nutrition will be expanding its world-class education and coaching services into a wide range of new fields, including yoga, group exercise, sports coaching, athletics, manual therapy and more.
+
+To help us reach our goals and keep us moving forward, we need a data scientist who knows how to distill complex data into actionable steps—and communicate it to the right people.
+
+Who we’re looking for
+
+A shrewd data hound with the ability to communicate clearly
+
+You’re naturally curious. You have an inquisitive mind, and you’re always looking for hard numbers to uncover patterns and insights in the way people think and work. You want to know what makes people tick, and gaining a deep understanding of your customers drives you to develop innovative solutions to solve their problems.
+
+You’re self-motivated. Once you are confident in what you need to do, you can run with it and don’t need a lot of direction. You have strong self-structure and discipline and have worked remotely either currently or in the past so you know the benefits and the challenges. At the same time, you don’t silo yourself, and are always eager to learn more and share with the team.
+
+You’re results-driven and have a strong bias for action. You get energized by developing recommendations that improve our product, and you excel at understanding and optimizing the journey our customers go through. You excel at knowing how to prioritize, adapt quickly when the scope changes—because it often will—and juggle lots of moving parts.
+
+You’re a confident decision maker. Since you’ll be collaborating with people across the organization, you’ll be taking in a lot of competing input and synthesizing that into a specific course of action. You aren’t afraid to take on the authority and accountability needed to make a decision and drive the plan forward in the way you think will have the biggest effect. You don’t water down the plan to please everyone.
+
+You’re an excellent communicator. You know how to say it, write it and present it in both layman’s terms and a bit more formally if needed. You know how to be heard and energize people around you, even when you’re “managing up” and presenting recommendations to the board.
+
+You’re a motivating, team-oriented, people person. Let’s face it, in order to get other people to execute on your projects, you must be able to easily build relationships and credibility. You earn and give respect so that you can collaborate with the team and persuade the right people of your recommendations. Oh, and since you get to do all of this remotely, from the comfort of your home, and you won’t be going into an office every day to wrangle the team—so your people and leadership skills are truly first class.
+
+What you’ll be doing
+
+Seeking constant opportunities to make our product offerings better
+
+You’re the navigator, deciphering the map and telling the captains the best course to their destination.
+
+Your mission is simple: comb through customer data to find the best areas for improvement, and relay that to the business side of the company. That means:
+Building and monitoring metrics. You’ll work through requirements for surveys and dashboards, and monitor KPIs over time to identify trends and build models that explain how our customers interact with our organization and use our product.
+Collaborating with the data and analytics group. On the other end of things, you’ll also help set up and automate data collection and aggregation to support analytical needs.
+Presenting to stakeholders. Once you identify areas for improvement, you’ll need to present your case to the marketing or product team, explaining what the data tells us and how to make that campaign or product feature better (or discussing possible areas we need to dig deeper).
+A few important caveats
+
+This is a dream job, if you’re the right person for it.
+
+Must-Have #1: You must be experienced. We’re looking for someone with 3-5 years of experience in a data scientist position, ideally with a degree in math, stats, or computer science. You must have a demonstrated track record of going from data exploration to analysis and presentation of recommended actions that resulted in a business improvement.
+
+Must-Have #2: You must know the tools of the trade. You have a solid understanding of data manipulation and visualization, statistical analysis, predictive analytics, and customer segmentation—and the tools that go along with those. You can develop visualization dashboards in reporting tools such as Tableau like a pro, and you have experience with data science tools like Heap, Panda, SciKit, and others, as well as manipulate and analyze data in SQL and Python.
+
+Must-Have #3: You must be comfortable collaborating and communicating. Your job extends beyond analyzing the numbers, so you’ll need to be just as comfortable presenting recommendations to others as you are digging through data on your own. In particular, you excel at translating technical concepts into business-driven advice.
+
+Wondering if this is the right path for you?
+
+Every year, professionals at the top of their field choose to join Precision Nutrition.
+
+Here are some reasons why.
+
+Reason #1: We give you the freedom to “do you.”
+
+Unlike most companies, we don’t have rigid rules about how and when to do things. You’ll always be free to work independently, whenever, wherever, and however you want -- without the bureaucracy and office politics.
+
+Reason #2: You can work from anywhere.
+
+We’re a 100% remote company, and have been working remote for 17 years. We’re ideally looking for candidates in Canada, but will consider the US as well. When you join our team, you’re no longer shackled to one desk in one office!
+
+Reason #3: Meetings are optional. (No, really.)
+
+You’re an adult. You’re capable of deciding how your time should be spent. If you don’t think you need to attend a meeting, you don’t. Simple as that.
+
+Reason #4: You’ll always feel supported.
+
+In a regular office, it’s easy to feel like a hamster in a wheel, powerless to change things. At Precision Nutrition, we work as a team to overcome issues & barriers that stand in each other’s way, and we treat each other with enthusiasm, compassion, and care.
+
+Reason #5: You’ll never be bored.
+
+People often come to Precision Nutrition after hitting a plateau in their old jobs. At PN, you’ll get the chance to chart new territories in your space, conquer new challenges, learn from the best, and reach thrilling new heights of personal and professional growth.
+
+Reason #6: You’re free to be you.
+
+At Precision Nutrition, we want everyone to live healthier, happier lives—no matter your race, age, gender, religion, or sexual orientation. That's why diversity is a key ingredient of our workforce, so we can best represent the people we serve. Everyone is welcome—as an inclusive workplace, we want our employees to bring their authentic whole selves to work. Be you.
+
+Reason #7: You’ll have autonomy.
+
+Not every data scientist job allows you time in the driver’s seat, but with this position, you’ll be taking charge of the analytical projects related to our product, and even make up your own projects that help make us better. You’ll never be bored by the range of tasks you get to work on.
+
+Plus: no commute ... and no 9-to-5 grind.
+
+Sound like we might just be the perfect company for you? Then you might just be the perfect fit for us. Click Apply for this Job below to get started!",5.0,"Precision Nutrition
+5.0",Toronto,"Toronto, Canada",51 to 200 employees,2001,Company - Private,Education Training Services,Education,Unknown / Non-Applicable,-1
+Data Scientist,CA$97K-CA$126K (Glassdoor Est.),"About ApplyBoard
+ApplyBoard is an online platform that empowers students around the world to access the best education. Founded in 2015, ApplyBoard has grown to become the world’s largest online platform for international student recruitment, assisting more than 100,000 students with their educational journey. By connecting international students, recruitment partners, and educational institutions, we simplify the study abroad search, application, and acceptance process through our platform and services. To date, we have built partnerships with 1,200+ educational institutions in Canada, the United States, and the United Kingdom, and 4,000+ recruitment partners around the world. In 2019, ApplyBoard was named the fastest-growing technology company in Canada by Deloitte, ranking #1 on the Technology Fast 50™ list.
+In May 2020, the company announced it successfully raised C$100M Series C funding on a C$2B valuation, reaching a ‘Unicorn’ valuation, allowing us to invest heavily in our technology, growing our team, and serving more customers.
+
+Our Team
+Our team of over 500+ ApplyBoardians (and growing!) is just as diverse as the customers we support. Comprising 27 nationalities, 53 languages spoken, and 50/50 gender parity, diversity is fostered and celebrated on our team. The ApplyBoard headquarters is located in Kitchener, ON Canada, with representatives in 20 countries including India, Bangladesh, Nepal, Pakistan, Vietnam, the Philippines, the United Kingdom, Mexico, Brazil, and China.
+
+
+The Role:
+ApplyBoard is looking for a Data Scientist that values collaboration and nurtures innovation while working in an energetic team. The ideal candidate will have a strong foundation in statistics, data science, and/or pattern recognition who will be valuable to organize, interpret and transform large datasets into actionable intelligence. In this role, it is expected to use best practices to identify data-driven opportunities for innovation, build analytics, and create machine learning models for deployment across the company.
+Responsibilities
+Create machine learning models to build a world-class data driven product
+Guide data strategies to interpret and predict human behaviour
+Work with an innovative team to shape the future using objective data-driven decisions
+Identify and qualify new data sources, techniques, and datasets to enhance insight
+Facilitate and support the use of sound analytical practices across the organization
+Analyze large, raw, and potentially noisy datasets to derive actionable intelligence
+Interpret relevant insights from diverse datasets including time-series data
+Validate results using best practices in math and statistics
+Visualize and present insights and models clearly and effectively to diverse audiences
+Required Skills
+Degree in mathematics, statistics, engineering, computer science, finance, or similar
+2+ years of experience in Data Science and/or Machine Learning
+Demonstrated ability to learn, adapt, and solve tough problems
+Strong analytical skills, strong model and software development skills and an open mind
+Experience and passion for applying statistical and data mining techniques to overcome real world challenges - deriving intelligence from data
+Experience writing complete, clear, and concise designs, data models, and algorithms
+Highly proficient at disseminating complex technical concepts in both written and oral forms with the ability to communicate this across all levels of the business
+Experience building data-driven software solutions with Python
+Experience querying and analyzing data using SQL
+Experience with visualization tools ( Tableau, Plot.ly/Dash, Pentaho, PowerBI)
+Driven, passionate and creative, and thrives in a fast-paced environment
+What We Offer
+
+
+The opportunity to have an impact on a product that is positively affecting change to thousands of students lives every dayWorking alongside a brilliant and globally diverse team that is the fastest growing in the Waterloo regionGreat compensation and benefits package to keep you healthy and happy!
+Thank you for your interest in ApplyBoard, however, only those applicants that have been selected for an interview will be contacted.
+
+At ApplyBoard, we understand the value of having a diverse team. That’s why we believe in providing equal opportunity regardless of race, national or ethnic origin, colour, religion, age, sex, sexual orientation, gender identity or expression, marital status, family status, genetic characteristics, disability, and conviction. Please let us know if you require accommodation during the recruitment process.",4.1,"ApplyBoard
+4.1",Kitchener,"Kitchener, Canada",501 to 1000 employees,2015,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,-1
+Data Scientist,CA$97K-CA$126K (Glassdoor Est.),"Shopkick is on a mission to bring delight and reward to the consumer shopping experience. As part of the Trax Retail family, we are a pre-IPO unicorn looking to accelerate our growth trajectory as we partner with major brands and retailers, ranging from H&M and Unilever to Best Buy and Purina, to transform the way people engage with stores and products, both online and in the physical world.
+
+What we are looking for
+
+We are in search of a detail-oriented Data Scientist to join our Analytics & Data Science team. If obscure Python packages permeate your dreams, or you view your life as a series of complex joins, then this might be the role for you. You will be responsible for supporting our various product, marketing and business teams in making better decisions.
+
+What you'll be doing
+
+Essential duties and responsibilities may include, but are not limited to:
+Develop learning plans, recommending analytics approaches to address questions or validate hypotheses, working with product and business owners
+Work with the business stakeholders, to define actionable reporting and visualization requirements
+Implement and scale the tools, systems and processes for delivering data and insights to stakeholders & leadership
+Take the initiative to find patterns and propose experiments against core product, marketing and business goals
+Be a steward of experiment design, analysis and reporting by standardization of success metrics and setting up process
+Scale up experimentation by either looking at external platforms or by driving changes to the internal experimentation platform
+Use 1st party data to deep dive into user behavior, that could be productized in the form of Audience Insights, Behavioral segments for Ads Targeting, Personalized user experiences
+Be an SME and evangelist for using advanced data science modeling to create data products to drive growth for the business
+Some cool projects we are working on currently or are planning to, in 2020, include:
+Build a predictive churn model, to identify users at risk of attrition and proactively mitigate the risk
+Upgrade our Life Time Value (LTV) model based on the above improvements
+Build user segments based on app behavior, as well as purchase/shopping behavior to create Audience Insights & Behavioral segments
+Who we are looking for
+
+You are innately curious, a self-starter and multi-tasker. You believe in Done is better than Perfect, but also strive to produce the best work possible, in everything you do. You are adept at navigating through organised chaos by approaching things with a logical and analytical mind, using process where needed, while not letting it stall progress if you face blockers. You are a good storyteller, and are able to communicate effectively using oral, written & presentation mediums. In addition, you:
+Have the confidence to make quick decisions & the courage to fail forward in doing so
+Have 4+ years of experience as a marketing or growth data analyst. Experience with both consumer and advertising technologies is a big plus
+In depth knowledge of inferential statistics and experimentation design and analyses
+Have the ability to teach a masterclass in query writing and data visualization, with an emphasis on choosing the best approach and tools for the job
+Have experience writing complex queries on Google Cloud Platform (GCP) is a big plus
+Are comfortable working in scripting languages such as Python and R
+Have a strong understanding of hypothesis testing and experiment design
+Have a Bachelor's degree in Statistics, Mathematics, Economics (quantitative) or equivalent
+Have awesome stories to tell of the impact you have had on other products and businesses in your career
+Any unsolicited resumes/candidate profiles submitted through our website or to personal email accounts of employees of Shopkick are considered the property of Shopkick and are not subject to payment of agency fees.
+
+]]>",3.5,"shopkick
+3.5",Toronto,"Redwood City, CA",51 to 200 employees,2009,Company - Private,Advertising & Marketing,Business Services,$50 to $100 million (CAD),-1
+Data Scientist,CA$97K-CA$126K (Glassdoor Est.),"About Assurance
+At Assurance we are disrupting the antiquated and inefficient world of insurance and financial services. Our team of world class software engineers, data scientists, and business professionals are modernizing how people obtain and manage their financial life all through our powerful platform ecosystem. We are rapidly growing as we expand our product offerings and global footprint, and this growth continues to present new and exciting challenges as we push our industry into its future. We eliminate waste throughout the industry and calculate the complex into simple, valuable solutions to improve people's lives. We are humble, driven, and committed to improving the lives of millions.
+
+About the Position
+As we build the future of consumer insurance in a modern age, data is at the core of everything that we do. The role requires team members who are adept at using large data sets to find opportunities for optimization and can leverage appropriate models to test the effectiveness of different courses of action. Our team uses a variety of data mining and analysis methods, a variety of data tools, builds and implements models, develops algorithms, and creates simulations. Team members must be very comfortable writing production-ready code to include testing and maintenance infrastructure, and able to put models and analysis into production with no support from engineering (we own our stack end to end). At Assurance, we hire experts in their field, and we give them the independence and trust to build based on their expertise.
+
+About You
+You have a proven ability to drive business results with data-based insights and are comfortable working with a wide range of stakeholders and functional teams. The right candidate will have a passion for discovering solutions hidden in large data sets and working with stakeholders to improve business outcomes. You’re capable of getting data for analysis on your own, without reliance on engineering, and you can build professional dashboards as standalone software products and tools. We’re growing at a rapid pace, so it’s important that you embrace the opportunity to blaze your own trail. You thrive in a fast-paced environment where priorities can shift rapidly as we corner opportunity. You can work independently, with little oversight or guidance.
+To be successful in this role, you must possess the following:
+Proficiency in either Python or R, and expertise in SQL.
+Experience working with AWS or another cloud-based computing platform.
+Experience and working knowledge of data infrastructure, pipelines, and advanced data manipulation.
+Experience with BI tools like Tableau or Looker (preferred), or any other industry tool such Qlik, PowerBI, Spotfire, etc.
+Excellent communication ability – you can explain your work in a way that anyone on the team can understand, and you can frame problems in a way that ensures the right question is being asked.
+Business Acumen – you are always eager to understand how the business works, and more specifically, how your work impacts the business.
+Enthusiastic yet humble – you are excited about the work you do, but you are also humble enough to embrace feedback – you don’t need to be the smartest person in the room.
+Bachelors degree in mathematics, statistics, data science or related field of study.
+The following additional experience is desired:
+Experience retraining a model within a few days or update a model within one day.
+Capable of performing an in-depth analysis and summarizing findings in one day.
+Comfortable having conversations with our executive team and non-technical team members to distill down their needs and to deliver actionable insights.
+
+
+
+Please review our CCPA policies here.",3.4,"Assurance Careers
+3.4",Toronto,"Bellevue, WA",51 to 200 employees,2016,Company - Private,Insurance Agencies & Brokerages,Insurance,Unknown / Non-Applicable,-1
+Data Scientist - co-op,CA$97K-CA$126K (Glassdoor Est.),"Do you want to join a team of talented professionals at an agriculture technology (#ag-tech) company on the verge of explosive international growth? Our company has designed and developed an AI robotics platform which detects crop health in commercial greenhouses internationally, eliminating the need for mass chemical pesticide usage. With exciting products hitting the market in the coming months, we are looking for candidates who are passionate about high technology, food, innovation, and sustainability.
+
+We support our customers completely, we accomplish great things as a team, we are passionate about enabling a cleaner future for everyone, we act like an owner, diversity in all that we do is our strength, success comes because we are great learners, we are persistent and forthright and realistic, and our optimistic nature allows us to take on any challenge.
+
+The candidate should have a background in machine-learning, data mining, statistical learning, computer science or similar. Experience or interest in fields such as agriculture, agronomy, or biology is a definite plus! The intern candidate should also have good software development skills and be a great team player. Your focus is on solving the problem - whether that involves developing a new algorithm or putting on your muddy boots to walk the field. Bring passion, dedication, and creativity to your work and you will have a chance to change the future of agriculture around the world!
+
+Duties & Responsibilities
+
+Your role will involve assisting senior data scientists and data engineers:
+Monitor, test, and debug the data pipeline
+Develop machine learning procedures and algorithms
+Construct classification models using developed machine learning tools
+Document developed features in the application
+Understand, support, test, and troubleshoot production machine learning applications
+Education, Skills & Experience
+Ecoation Inc. is looking for an 8 or 12 month commitment
+Meeting SWILP eligibility criteria is also preferred: https://www.eco.ca/swilp/studentquiz.aspx",4.3,"Ecoation
+4.3",Vancouver,"North Vancouver, Canada",1 to 50 employees,2010,Company - Private,Farm Support Services,Agriculture & Forestry,Unknown / Non-Applicable,-1
+Data Scientist,CA$97K-CA$126K (Glassdoor Est.),"People.ai accelerates enterprise growth through the power of AI. With the industry’s only Revenue Intelligence System, People.ai frees all customer-facing teams, including sales, marketing, and customer success, from manual data entry by automatically capturing all contact and customer activity data, dynamically updating CRM and other systems of record, and providing actionable intelligence across management tools to realize the full selling capacity of the enterprise. Some of the world’s best brands are leveraging People.ai to transform their business, including Lyft, New Relic, Okta, Tanium, and Zoom.
+
+At People.ai, we believe that people enrich the world around them in countless ways. We believe that the more time they spend applying their creativity, resourcefulness and critical thinking to activities that matter most in their professional life, the more effective a professional they become. We're developing a deep understanding of the professional world, mapping people, companies, and the information that flows between them through natural language processing and machine learning. Our team is a diverse, outspoken group of creatives and critical thinkers, hyper-focused on driving enterprise growth. We embrace different. We applaud non-traditional career paths. We're inspired by people who have made processes their own.
+
+
+As a Data Scientist on the Success Services team, you will be responsible for the technical design, implementation, and delivery of our customers’ data for use cases that are not served directly through the product. You will be responsible for managing existing data services, as well as driving all net-new data deliverables owned by Success Services. In addition to the engineering work, you will consult directly with customers, enabling them to build use cases with People.ai data on top of their own infrastructure. This role reports to the Director of Business Value & Insights.
+Responsibilities
+Serve as the most technically advanced member of the Success Services team as it pertains to data ingestion and manipulation skills and coordinate internally with appropriate technical teams to provide a seamless experience to our customers
+Work across Product, Technical Success, and Services to simplify and scale the entire portfolio of Services offerings
+Lead logical architecture design in collaboration with Product and Technical Success to enable scalable data models that support value delivery to customers
+Assist customers with API configuration and ingesting People.ai data into their analytics infrastructure
+Enable customers on People.ai activity data to support their own use cases
+Build custom dashboards leveraging our Executive Analytics Platform (embedded BI in web app) along with Product
+Create customer-facing documentation for our top dashboards
+Optimize refresh schedules for data pipelines and dashboards, both internally and externally
+Own the delivery and development of the Historical Contacts Service in coordination with Technical Success
+Conduct a backend data design audit of top 5 use cases to ensure scalability moving forward
+Requirements
+Extensive (5+ years) of coding (e.g. Python, Java, Scala) and data modeling experience
+Strong (3+ years) experience with enterprise data analytics architecture, developing data pipelines, and using various ETL libraries/tools
+Strong (2+ years) experience building reports in BI tools (e.g. Tableau, Looker, Power BI, Sisense) on top of data warehouses (e.g. Redshift, Snowflake, BigQuery)
+Expert at extracting and manipulating data from multiple sources, including relational databases and REST APIs
+Working knowledge of cloud-based big data technologies (e.g. Spark, Hive, Hadoop)
+Comfortable consulting with customers to enable them to leverage People.ai data within their infrastructure
+Must be very organized and know how to accurately and thoroughly document all solutions produced
+Values teamwork and good at building partnership cross-functionally
+Open to feedback and ideas from others
+Creative and innovative
+Analytical, data-driven and high-level problem solver
+Founded in 2016 and based in San Francisco, the company is backed by ICONIQ Capital, Andreessen Horowitz, Lightspeed Venture Partners, Y Combinator and others. In 2019, People.ai was recognized as a winner of the 2019 Bay Area Best Places To Work, an awards program presented by the San Francisco Business Times and the Silicon Valley Business Journal.",4.4,"People.ai
+4.4",Toronto,"San Francisco, CA",51 to 200 employees,2016,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,"Clari, Outreach"
+"Data Scientist Consultant, Cloud Support Data and Analytics",CA$97K-CA$126K (Glassdoor Est.),"Minimum qualifications:
+3 years of experience in an analyst or Data Science role.
+Experience using SQL to work with multiple datasets.
+Experience designing data models and building data structures.
+Experience in a language for statistical computing (R, Python/pandas, Stata, etc.).
+Preferred qualifications:
+PhD in Statistics, Engineering, Data Science, or related field (e.g. Mathematics, Physics, etc.).
+Experience with statistical data analysis (a/b tests, hypothesis testing, experiment setting, etc.), and creating models to answer business questions.
+Experience designing databases, and defining and implementing system requirements for data collection.
+Knowledge of Machine Learning libraries (such as TensorFlow, Scikit-learn, Keras).
+Excellent oral and written communication skills, including the ability to communicate findings in a structured and clear manner to a non-technical audience.
+About the job
+
+
+The Cloud Support Data and Analytics team provides data solutions that power the Cloud Support organization.
+
+In this role, you will work on projects in a growing organization with opportunities to address problems needing creative solutions and models. You will be working on bringing together different data sets from across Google Cloud and modeling data to unlock actionable insights that help stakeholders formulate and answer business questions. You will collaborate closely with stakeholders from technical solutions engineering, product programs, vendor operations, support operations, and support experience teams.
+
+Google Cloud provides organizations with leading infrastructure, platform capabilities and industry solutions. We deliver enterprise-grade cloud solutions that leverage Google’s cutting-edge technology to help companies operate more efficiently and adapt to changing needs, giving customers a foundation for the future. Customers in more than 150 countries turn to Google Cloud as their trusted partner to solve their most critical business problems.
+Responsibilities
+Provide decision-making support for key projects, and research new ways of modeling data to unlock actionable insights or improve processes. Contribute to the development of the frameworks, tools, skills, and culture for the team and wider organization.
+Use predictive analytics and/or machine learning to facilitate forecasting for a growing and global support operation.
+Write and review technical documents, including requirements and design documents for existing and future data systems, as well as data standards and policies.
+Partner with non-technical stakeholders to understand their needs, help frame the problem by asking the right questions, and document and prioritize requirements. Communicate results of technical work.
+Design, write, and support extract, transform, and load (ETL) processes to automate data collection and manage pipelines.
+
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing this form.",4.4,"Google
+4.4",Waterloo,"Mountain View, CA",10000+ employees,1998,Company - Public,Internet,Information Technology,$10+ billion (CAD),"Microsoft, Apple, Facebook"
+GCP Data engineer with Dataproc + Big Table,CA$97K-CA$126K (Glassdoor Est.),"GAL AeroStaff., which provides specialized staffing and recruiting services is presently seeking a GCP Data engineer with Dataproc + Big Table for a contract based anywhere in Canada (Remote work)Responsibilities:
+
+Working with GCP team for various GCP Cloud programs including Certifications, Partner engineering, Marketplace and other Cloud platform solutions.
+Educating GCP / ISVs customers on best practices
+Stakeholders management / Communication: Google, ISVs, Project Teams
+Program Management and Execution
+Managing the teams on different projects
+Reporting and Project Communications
+Advocating the customer's perspective during product and architecture planning.
+Create and maintain a library of reusable container images
+Awareness of Business P&L and Goals aligned to technology and revenue
+
+Certifications:
+
+GCP Cloud Certification is Must
+Google Cloud Certified Professional Data Engineer
+Google Cloud Certified Professional Cloud Architect
+
+Technical Skills:
+
+Experience with private, hybrid or public cloud technology
+Possess Strong Cloud Implementation Experience in Cloud architecture/design, compute/storage services.
+Understand multi-Cloud/multi-zone based designs.
+Compute: Docker Apps, Lambda/ serverless, UserData customization
+Preferred: Cluster/HA-based parallel design/multi-region approach
+Cloud automation: Ansible, YAML, CloudFormation
+Containers: Docker; Preferred: Container orchestration - Mesosphere, Kubernetes, ECS
+Familiarity with functional operations of server, storage, and network functions.
+Experience migrating Windows or Linux
+Virtualization experience (VMware, Xen, HyperV)
+Databases understanding: Oracle, DB2,MySql; Preferred: NoSql DB, MongoDB, Cassandra, DynamoDB
+Program Management experience from Planning to execution
+Having experience of Managing teams of moderate size
+Strong communications skill and multiple stakeholder(TM)s management
+Experience in implementing cloud solutions",4.0,"GAL Aerostaff
+4.0",Remote,"Vaudreuil-Dorion, Canada",1 to 50 employees,2011,Company - Private,Aerospace & Defence,Aerospace & Defence,Unknown / Non-Applicable,-1
+Data Scientist,CA$97K-CA$126K (Glassdoor Est.),"ABOUT MOBSQUAD
+
+We are a well-funded, hyper-growth, scale-up looking for an experienced Data Scientist. If you've ever dreamed of working with a top tier technology company scale-up, on leading edge technologies, backed by the very best venture capitalists in the world, then this is your chance.
+
+Some details about MobSquad:
+MobSquad solves the significant and growing technology talent shortage faced by US-based start-ups and scale-ups by enabling our clients to quickly have a turnkey ""virtual"" Canadian subsidiary, where Canadian-based software engineers serve our clients individually on an exclusive basis
+We've been featured on the front page of The Washington Post , on NPR multiple times, The Financial Times (UK), The Globe and Mail, the Calgary Herald, BetaKit, CBC, Global News, and many other places. other media outlets
+We're a Certified B Corporation, were recognized as the third Best Place to Work in Canada in 2020, and have made numerous contributions to charitable organizations as well as a financial commitment to the Upside Foundation. We believe we are playing a key role in enhancing Canada's innovation economy, and have received financial support from the Government of Canada, Province of Alberta, Province of Nova Scotia, and City of Calgary, to support this ambition
+You can learn more about us on our website
+
+ABOUT THE ROLE
+
+As a Data Scientist, you will be part of a Canada-based team working remotely for a leading US start-up. Your team will operate alongside many other talented developers and data scientists in Canada, and you will be an integral part of the tech community that MobSquad has built.
+
+This role requires someone who has demonstrated an ability to bridge the gap between the theoretical and the practical. The ideal candidate has deployed or attempted to execute Artificial Intelligence theories from various Machine Learning (ML) models and algorithms, and also has some experience in data engineering. MobSquad is looking for proven researchers with a track record of publishing in impactful journals and conferences, or those with years of hands-on industry experience.
+
+This role offers the opportunity to apply your knowledge of statistics and your analytical skills to mine data at scale and develop large-scale ML models to reveal the value in data. You will support feature prototyping and utilize best practices to write production-grade code. You will build data pipelines, implement ML-based analytical algorithms, and work closely with the software development team to set up back-end systems and interfaces that will deliver next-generation analytics.
+
+ABOUT YOU
+
+You have an advanced degree (M.S. or PhD) in Data Science, Computer Science, Engineering, or a comparable analytical field from an accredited institution
+You are expert in data mining, machine learning, deep learning, statistical modeling, and data visualization techniques using data-oriented tools and languages such as Python, R, and MATLAB
+You have over three years of experience or demonstrated fluency in relevant programming languages (Python, R, Scala, Java, C/C++, C#)
+You have over three years of experience working with SQL (MySQL, SQL Server) as well as NoSQL (Cassandra, Hbase) databases
+You have experience setting up and using large-scale distributed data-processing frameworks such as Apache Spark and Hadoop MapReduce
+You have experience working with enterprise-grade cloud computing platforms such as Microsoft Azure, Amazon Web Services, or Google Cloud
+You have demonstrated ability to develop high-quality code adhering to industry best practices (e.g., code review, unit testing, revision control)
+You are familiar with designing experiments and collecting data for the purpose of deriving data analytics insights and solutions
+You have experiencing creating and deploying recommendation and/or predictive models
+You have work/project history reflective of a self-motivated professional who excels when given open-ended problems and broadly-defined goals, having an innate desire to discover the patterns and relationships in data that can be leveraged to provide business value
+
+WHAT YOU'LL GET @MOBSQUAD
+
+A full-time position that offers competitive compensation
+A benefits program delivered through our bespoke digital platform, giving you control, choice, and flexibility. We give you the ability to build your package of benefits covering health (e.g., medical, dental, vision), wellness (e.g., gym, workout gear, massage, transit), and RRSP (retirement savings)
+A downtown office location with first-rate amenities, surrounded by great restaurants and easily-accessible transit
+For international candidates, sponsorship for an immediate work permit, expedited permanent residency, and Canadian citizenship within four years
+
+At MobSquad, we support and encourage building a work environment that is diverse, inclusive, and safe for all. We invite and welcome applicants of all backgrounds, regardless of race, religion, sexual orientation, gender identity, national origin, or disability.",4.4,"MobSquad
+4.4",Calgary,"Calgary, Canada",1 to 50 employees,-1,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,-1
+Data Scientist,CA$97K-CA$126K (Glassdoor Est.),"Data Scientist
+
+INVISTA Canada's Kingston Nylon manufacturing
+site located in Kingston, Ontario is looking for a Data Scientist to support INVISTA’s
+manufacturing plants around the world. A
+successful candidate will be responsible for leveraging INVISTA’s data assets -
+thousands of sources and billions of records from across our operations – to
+improve the company’s business performance.
+
+It is an exciting phase in INVISTA’s
+continued evolution through
+growth and transformation projects. This
+position will be a key strategic addition in growing the capability of our global
+operations to make data driven decisions.
+
+We are looking for motivated and talented people who will help us
+meet the challenge of leading rapid experimentation, pursuing continuous
+innovation and creating long-term value for customers and society. INVISTA is an
+independently managed but wholly owned subsidiary of Koch Industries, Inc.
+Why Work for INVISTA?
+A culture that
+places top priority on integrity and compliance
+Supported by
+INVISTA’s Data Engineering team so the scientist can focus on
+experimentation and validation
+An opportunity to
+learn from analytics experts at INVISTA and collaborate in solving
+challenges across other companies at Koch Industries
+Leading
+implementation of advanced analytics to transform INVISTA operations towards
+the factory of the future
+
+Position Responsibilities:
+
+As a member of the INVISTA team, you will
+have the opportunity to work in a fast-paced manufacturing environment with an
+aim to drive data oriented solutions to operations and commercial needs . You
+will:
+Work with operations and
+commercial stakeholders to identify opportunities for leveraging data and
+analytics to drive business solutions across the entire Performance
+Solutions business.
+Explore and analyze data to
+drive optimization and improvement of data informed decisions
+Assess the effectiveness and
+accuracy of new data sources and data gathering techniques.
+Develop data models and Machine
+Learning algorithms and implement these capabilities at scale.
+Coordinate with different
+functional teams to implement models and monitor outcomes.
+Develop processes and tools to
+monitor and analyze model performance and data accuracy.
+Coaching and mentorship for
+developing analytics capability across the organization.
+To generate the greatest contribution to our
+company, you must be results driven, thrive in team-oriented work environment, an
+economic thinker, and have excellent communication skills to be able to work
+with all areas of the organization.
+
+Above all you must ensure that all your
+activities are carried out with integrity and in a safe and efficient manner.
+Skill Requirements:
+
+A degree in engineering, computer science, mathematics
+or similar field with a focus on Data Science/Data Mining/Data Analytics
+Experience with a Programming Language (Python, R,
+Scala, Julia, Java)
+Experience or education working with the various data
+storage mechanisms (Hadoop ecosystem, Microsoft SQL, Oracle)
+Exposure to predictive analytics tools (R, TensorFlow,
+PyTorch, SAS, Knime, Apache Spark) and concepts (classification,
+regression, clustering, neural networks)
+Previous work experience in the field is an
+asset but not required
+
+Compensation:
+
+Competitive salary commensurate with skills
+and experience.
+
+
+We provide:
+
+Competitive salary
+Flexible benefits
+package
+Defined benefit
+pension plan
+Optional pension
+enhancements
+Performance bonus
+program
+Additional
+vacation purchase program
+Additional
+floating holidays
+Education
+Assistance Program for job related training
+
+About INVISTA
+
+From the fibers in your carpet to the plastic
+in your automobiles, INVISTA’s commitment to continuous improvement has
+led its employees to develop some of the most durable, versatile polymers and
+fibers in the world. A subsidiary of Koch Industries since 2004, INVISTA
+brings to market the proprietary ingredients for nylon 6,6 and recognized
+brands including STAINMASTER®, CORDURA® and ANTRON®.
+
+INVISTA also offers specialty chemical
+intermediates and process technologies. See the bigger picture at INVISTA.com
+
+Want to learn more about the INVISTA
+experience? Watch this!
+
+To find out more about working at INVISTA’s
+Kingston Site: Watch this!
+
+To find out about working and living in
+Kingston, please visit: https://possiblemadehere.org/
+
+How to apply?
+
+Interested applicants should submit a
+detailed resume along with a covering letter to www.invistacareers.com
+
+If you
+have the above qualifications, we would like to hear from you. We thank all
+applicants, in advance, and advise that only those selected for an interview
+will be contacted.
+
+Successful
+candidates will be required to complete a criminal background check.
+
+We are an
+equal opportunity employer. If you require accommodation or assistance at any
+time during the application or selection processes, please submit a request by
+following the directions located at the bottom of kochcareers.com webpage.",3.5,"INVISTA
+3.5",Kingston,"Wichita, KS",10000+ employees,-1,Subsidiary or Business Segment,Chemical Manufacturing,Manufacturing,Unknown / Non-Applicable,-1
+Junior Data Scientist,CA$97K-CA$126K (Glassdoor Est.),"You will:
+Work with existing data manipulation tools to populate our database.
+Work with our development team to automate the flow of data.
+Qualifications
+You are familiar with the pace of a start-up going into a growth phase.
+
+You have:
+Enthusiasm to work in Blockchain
+Excellent problem-solving skills
+Detail-orientation throughout the development lifecycle
+Ability to work with little supervision
+Passion for Data Science
+
+Nice to have:
+Experience with Crypto-Currencies; e.g. Ethereum, Bitcoin, etc
+Understanding of how Crypto-Currency mining works
+
+Benefits:
+Work from home opportunities
+Job Type: Full-time, Temporary
+Salary: $48,000 to $60,000 / year
+Send your resume to careers@dmgblockchain.com with the position as the subject.",-1,DMG BLOCKCHAIN SOLUTIONS,Vancouver,"Vancouver, Canada",51 to 200 employees,-1,Company - Public,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,-1
+Senior Scientist SARS-CoV-2,CA$97K-CA$126K (Glassdoor Est.),"Job description
+
+With unrivaled expertise in immunology, and operating sites in North America (East and West Coast) and Europe, Nexelis is a leading provider of assay development and advanced laboratory testing services in the infectious diseases, metabolic diseases, and oncology fields. Our versatile team of scientists, working with our advanced technology platforms, were instrumental in the development, qualification, validation, and large-scale sample testing of assays that supported the FDA filing of almost 100 new molecular entities, including blockbuster vaccines, anti-viral drugs, and immunotherapy, gene and cell therapy products.
+
+We are currently looking for a motivated candidate with experience to fill the Scientist position. This position reports to the Associate Director, Laboratory Operations. The Scientist will have extensive expertise in virology, will be responsible to perform assay development, qualification and validation of SARS-CoV-2 assays.
+
+Main responsibilities
+Supervise and perform the development, qualification and validation of assays to assess the immune responses to various vaccine/drug candidates including SARS-CoV-2;
+Preparation of presentations of scientific data for internal and external discussions;
+Prepares qualification/validation plans and reports, procedures (analytical method) that meet standards of written scientific standards and comply with Nexelis quality assurance and operations standards and the client-specific requirements;
+Conducts literature searches of science/medical search engines and libraries;
+Troubleshoot technical issues related to the assays;
+Provides mentoring/training over Research Associates and technical staff;
+Be compliant to all applicable regulations (e.g., GCLP) and biosafety / EHS standards;
+Ensure optimization of operational efficiency in the lab;
+May interact with clients, business development, account management and operations management to support commercial proposals in terms of scientific design and lab workload assumptions.
+Knowledge, skills and abilities
+Expert of cell-based assays for neutralizing antibody detection;
+Proficiency in immunoassays and/or immunogenicity-based methodologies;
+Knowledge and experience in method development and validation of immunogenicity assays;
+Proven leadership and management skills;
+Team player, client oriented and strong organizational skills;
+Proficient with office tools (Excel, Word, PowerPoint).
+Qualifications
+M.Sc. or Ph.D. in virology / immunology;
+At least 3 to 5 years experience in a CRO and/or a pharmaceutical company;
+Excellent French and English, written and spoken.
+Benefits:
+Work from home opportunities
+Extended health care
+Vision care
+Flexible working hours
+Dental care
+Life insurance
+Disability insurance
+Vacation & paid time off
+Employee assistance programs
+Bonus scheme
+On-site parking
+Casual dress
+Company events & social hours
+Reference ID: 2020-05
+
+Job Types: Full-time, Permanent
+
+Experience:
+CRO and/or pharmaceutical company: 3 years (Required)
+Education:
+Master's Degree (Required)
+Work remotely:
+Temporarily due to COVID-19",3.4,"Nexelis
+3.4",Laval,"Seattle, WA",51 to 200 employees,-1,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,-1
+Data Scientist,CA$97K-CA$126K (Glassdoor Est.),"LOCATION: Calgary, Alberta (CA-AB)
+JOB NUMBER: 41297
+
+Why you should join us:
+
+We are living in an era of transformation – as a company, as an industry and as a global community. Suncor is evolving and we’re calling it Suncor 4.0. Technology and digital solutions are a big part of this, but unleashing the full potential of our people is what will get us where we need to be.
+
+An essential part of our evolution is creating value through data and becoming a data-informed enterprise where employees can apply their knowledge, draw insights and make the best possible decisions. Hiring specialists like yourself will help us implement our Advanced Analytics strategy and transform our business. It’s all about strengthening our future through digital technology, unleashing the full potential of our people, and creating an engaging and productive workplace.
+
+Working as part of our Advanced Analytics (AA) team in our Transformation Management Office you will work across our organization to identify and apply advanced analytics practices including machine learning, deep learning techniques and artificial intelligence to transform the way we do business.
+
+If you’re passionate about data, and thirsty for new approaches that provide insights into the most complex challenges through the architecting of data for advanced analytics, this role is for you!
+
+Are you ready to help us solve problems we’ve never been able to address before? Join us and be part of transforming Suncor’s future!
+
+You will use your expertise to:
+Act as a key contributing team member for advanced analytics products focused on analytics product and insight development and sustainment
+Design, create, test and implements models through algorithms that drive analytical products throughout the organization
+Apply Suncor Use Case Delivery Model and Suncor Model Management practices for analytics product development and operations
+Work with Data Engineers and SME’s to understand the raw data and/or create engineered features that improve model performance
+Collaborate with cross-functional team members to deliver high-impact scalable and sustainable products in a Minimum Viable Product (MVP) approach through product releases
+Use data science techniques to find data patterns, anomalies, and optimization opportunities
+Provide expertise on mathematical concepts for the broader applied analytics team and inspire the adoption of advanced analytics and data science across the entire organization
+Interpret, translate and communicate analytical findings to business stakeholders through visualizations
+Identify and implement continuous improvement to standards, processes and techniques within the AA Centre of Excellence (CoE)
+We’d like to review your application if you have…
+
+Must-haves (minimum requirements):
+Three to 10 years of progressive experience in advanced analytics or a quantitative field
+A Bachelor or Master’s degree with a focus in data science, computer science, analytics, actuarial science, statistics, operations research, mathematics, data mining, economics or a related quantitative field (e.g. epidemiology/public health, geomatics)
+Proven proficiency developing analytics products in Python and/or R MATLAB or statistical analysis environments such as SPSS or SAS
+A deep understanding of predictive modeling and statistical concepts, machine learning approaches, clustering and classification techniques, and recommendation and optimization algorithms
+Strong communication, dynamic and critical thinking, and story-telling ability (through data) to influence and propose analytics strategies and solutions that challenge and expand the thinking of everyone around you
+Alignment with our values: safety above all else, stronger together, operational discipline, curiosity and lifelong learning, and act with integrity
+Preference for:
+Experience in mining, In Situ, refineries, cyber security, geology, and/or a corporate/functional business background
+Experience with unstructured data (e.g. image recognition, audio analytics, text mining)
+An accredited professional statistician (PStat)
+Where you’ll be working, your work schedule, and other important information:
+You will work out of our Calgary head office, located in the Suncor Energy Centre at 150 – 6th Ave S.W.
+This role can also be supported from one of our hub locations (e.g. Mississauga, Fort McMurray, Edmonton, Sarnia, Montreal)
+One of our values is curiosity and lifelong learning – we challenge the status quo and learn from and support each other to make the world a better place
+We are so invested in building advanced analytics skills within our organization that we've created the Analytics Academy to provide training to employees through instructor-led courses, e-learning, communities of practice, etc.
+Why Suncor?
+
+Supporting our people. Caring for our communities. Living our purpose.
+
+With our operations declared an essential service, we are continuing to operate and are looking to fill business-critical roles at this time. We require qualified and safety-focused employees to help keep things running. In terms of our current recruitment process, we’re doing things a bit differently to adjust to our new ‘normal.’ We are using technology to conduct virtual interviews to adhere to physical distancing recommendations and we are well set up for remote onboarding and orientation.
+
+We are bolstered by the unity across our community and the solidarity across the world. We continue to encourage you to support global efforts to limit the impact of COVID-19 with good hygience practices, physical distancing, and with care and consideration for the people around you. For more information on how we’re responding to COVID-19, click here. #StrongerTogether
+
+We are Canada's leading integrated energy company with a business portfolio that includes oil sands development and upgrading, offshore oil and gas production, petroleum refining, and product marketing under the Petro-Canada brand. Our global presence offers rewarding opportunities for you to learn, contribute, and grow in a variety of career-building positions. We live by the value of safety above all else – if it isn't safe, we don't do it. Our strong track record of growth and a focus on sustainability mean tremendous potential for the future. Learn about our purpose and values.
+
+In addition to rewarding job opportunities, we offer an attractive employee package, including:
+Competitive base salary, compensation programs, and an annual incentive program
+Flexible benefits package
+Rewarding pension and savings plans
+Stay connected to us:
+Follow us on LinkedIn, Facebook and Twitter for the latest job postings and news
+Visit our Report on Sustainability to see our progress on a number of environmental, social and economic topics and what we’re doing to position our company for the future
+Join our Talent Community and sign up to receive customized job alerts
+Read our Suncor Connections newsletter to see what we’re doing in the communities we live and work in
+We are an equal opportunity employer and encourage applications from all qualified individuals. We are committed to providing a diverse and inclusive work environment where every employee feels valued and respected. We will consider accessibility accommodations to applicants upon request. Check out our social goal to learn how we are working to build greater mutual trust and respect with the Indigenous Peoples in Canada.
+
+Please note that our job postings are typically open for two weeks, so don't delay, apply now.
+
+JOB CATEGORY: Business Professionals",4.0,"Suncor Energy Services
+4.0",Calgary,"Calgary, Canada",10000+ employees,1967,Company - Public,Energy,"Oil, Gas, Energy & Utilities",$10+ billion (CAD),"Imperial Oil, Husky Energy"
+Data Scientist Intern,CA$97K-CA$126K (Glassdoor Est.),"Who is Geotab:
+
+Geotab, a global leader in IoT and connected transportation, is one of the fastest-growing technology companies in North America and a certified “Great Place to Work.” Each day, Geotab processes billions of data points from over 2 million connected vehicles, extracting actionable insights to help empower businesses to better manage their fleets. Recognized as the world’s #1 commercial telematics provider, Geotab’s solutions are used by more than 40,000 customers in over 130 countries around the globe. Geotab understands that telematics is critical to helping create safer and more sustainable drivers, businesses and communities and actively works to help businesses improve driver behavior, reduce greenhouse gas emissions and create safer roads for all. Global demand for telematics is increasing and Geotab is leading the way. Are you ready to join us? To see what it’s like to be a Geotabber, follow us @InsideGeotab on Instagram, Twitter or Facebook today!
+
+Who are we looking for:
+
+We are looking for amazing talent who can contribute to our efforts and deliver results! Geotab is seeking a Data Scientist Intern who will immediately contribute to the organization and to the Data and Analytics team. If you love technology and analysis, are well organized, and are keen to join an industry leader — we would love to hear from you!
+
+What are the details of this position:
+
+As a Data Scientist Intern, you will work alongside a team of fellow Data Scientists on Geotab’s Data & Analytics team. This technical department is responsible for producing insight from Geotab’s big data environment, which streams and ingests over 3.5 billion data records per day from over 1.3 million vehicles in 85 countries across the globe. You will work closely with Data Scientists and Data Engineers to mine data and build models to support the development of new data-driven solutions. To be a successful Data Scientist, you must be a big-picture thinker who is also interested in the details. The results of your analysis will be developed into Customer-facing data products, so you will need to understand how our Partners and Customers can benefit directly from your analysis. The successful candidate must also be able to manage projects to completion and deliver effective solutions.
+Duties and Tasks/Essential Functions:
+Use SQL and Python to interact with Geotab’s big data infrastructure
+Leverage learning packages like Scikit-Learn and Tensorflow to develop Machine Learning models
+Develop new features for Machine Learning models and visualize features
+Own the design, development, and maintenance of ongoing metrics, reports, analyses, dashboards, etc. to drive key business decisions
+Use data mining, model building, and other analytical techniques to develop new datasets and data driven solutions
+Make recommendations for new metrics, techniques and strategies to improve Geotab’s product suite
+
+Experience/Skills Required:
+
+Within final two years of a university degree in Engineering, Computer Science, Math or a related field
+Strong communication, organization and time management skills, as well as a willingness to learn and strong work ethic
+Experience using SQL
+Experience using Python
+Experience working with Machine Learning algorithms and big data tools is an asset
+Previous industry work experience preferred
+Ping Pong and Foosball skills always a plus
+What makes our staff passionate about Geotab?
+
+Table Tennis at the office - bring your own bat!
+Great accommodation (brand new office building, height-adjustable desks)
+Light breakfast served daily
+Hot lunches or fresh sandwiches served every Friday
+Geotab-sponsored sports teams and social events
+Full medical benefits and 4% company matching RSP (full-time employees only)
+
+Our Core Values:
+
+Geotab is shaping the future of telematics. Using leading technology, we embrace change and challenge the status quo. To stay ahead of the curve, we keep Geotabbers energized with data bootcamps, course subsidies, Friday lunches, and more. We believe collaboration leads to innovation; our teams stretch across floors, cities and continents. All employees, from the CEO to the summer students, maintain an open-door policy. Whether we’re fine-tuning our products, or boosting our office culture, we’re building a foundation for long-term success. To us, this means safer roads, more efficient fleets and a team of dynamic Geotabbers!
+
+Geotab encourages applications from all qualified candidates. Geotab is committed to accommodating persons with disabilities throughout the interview, selection and employment process. If you require accommodation at any stage of the application process or want more information about our accommodation policies and practices, please contact us at (416) - 434 4309.",4.3,"Geotab
+4.3",Oakville,"Oakville, Canada",1001 to 5000 employees,2000,Company - Private,Computer Hardware & Software,Information Technology,$100 to $500 million (CAD),-1
