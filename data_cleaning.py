@@ -45,25 +45,31 @@ df['Company Name'] = df['Company Name'].str[:-3]
 # STEP 3 : CHECKING LOCATIONS
 location_check = df['Location'].unique()
 df['Location'] = df['Location'].apply(lambda x : x.replace("Montréal-Est","Montreal").replace("Montréal-Nord","Montreal"))
-df['Location'] = df['Location'].apply(lambda x : x.replace("Toronto,Ontario","Toronto"))
+df['Location'] = df['Location'].apply(lambda x : x.replace("Toronto,Ontario","Toronto") or x.replace("Toronto, Ontario","Toronto"))
 
 
 
-# STE 4 : Age of Company
+# STEP 4 : Age of Company
 df['age_of_company'] = df['Founded'].apply(lambda x : x if x <1 else 2020-x)
 
 # STEP 5: Job Title
-df['Job Title'] = df['Job Title'].apply(lambda x : 'data analyst' if 'data analyst' in x.lower()
+df['Job_title_simplified'] = df['Job Title'].apply(lambda x : 'data analyst' if 'data analyst' in x.lower()
                                                else 'data engineer' if 'data engineer' in x.lower()
-                                               else 'data scientist' if 'data scientist' in x.lower() or 'machine learning' in x.lower()
+                                               else 'data scientist' if 'data scientist' in x.lower() 
+                                               else  'machine learning engineer' if 'machine learning' in x.lower()
                                                else 'other')
+
+# Add Seniority Level
+df['seniority'] = df['Job Title'].apply(lambda x : 'senior' if 'senior'in x.lower() or 'sr ' in x.lower() or 'sr.' in x.lower() or 'lead' in x.lower() or 'principal' in x.lower()
+                                        else 'junior' if 'junior'in x.lower() or 'jr ' in x.lower() or 'jr.' in x.lower()
+                                        else 'na')
+
 # Remove other roles that were not relevant to data scientist role
-df = df[df['Job Title'] != 'other']
+df = df[df['Job_title_simplified'] != 'other']
 
 
-# STEP 6: Job Descripton Parsing : Language(Python, R et.) and Years of Experience Required
 
-
+# STEP 6: Job Descripton Parsing : Language(Python, R et.) 
 
 # PROGRAMMING LANGUAGES, DATABASES AND TOOLS/TECHNOLOGIES
 # Python
@@ -126,7 +132,7 @@ df = df[df['check_skills'] !=0]
 df = df[df['Job Title'] != 'other']
 
 # STEP 8 : Drop unnecessay columns
-df.drop(columns = [], inplace = True)
+df.drop(columns = ['Job Title','check_skills'], inplace = True)
 
 # STEP 9 : Save the data
 df.to_csv('glassdoor_salary_data_cleaned.csv', index = False)
