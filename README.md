@@ -2,7 +2,7 @@
 
 This is an ongoing project....
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bioenergyconsult.com%2Fdata-science%2F&psig=AOvVaw1QknCF094B02tJctd6H3JG&ust=1596814771632000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDFq-70husCFQAAAAAdAAAAABAD)
+![](https://github.com/rachitj/ds_salary_project/blob/data_eda/data-science.png)
 
 ## Description
 Analytics is one of the most exciting roles in current times. Using data to tell stories is a huge plus for companies. There are different kind of roles in analytics field such as Data Analyst, Data Scientist, Machine Learning Engineer, Data Engineer etc. As their job-roles and responsibities vary, their salary also varies. Though all these roles require expertise in technologies like R, Python, SQL, Excel, Machine Learning, Deep Learning, API development, Visualization( Tableau and Power BI), Web Scraping etc. The salaries might also vary based on ocation and several other factors. In this project, we will explore the analytics world of Canada.
