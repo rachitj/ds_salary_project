@@ -1,3 +1,5 @@
+
+
 # -*- coding: utf-8 -*-
 """
 Author: Kenarapfaik
@@ -9,6 +11,11 @@ from selenium.common.exceptions import NoSuchElementException, ElementClickInter
 from selenium import webdriver
 import time
 import pandas as pd
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+#from selenium.webdriver.support import expected_conditions as EC
+
 
 
 def get_jobs(keyword, num_jobs, verbose, path, slp_time):
@@ -24,12 +31,17 @@ def get_jobs(keyword, num_jobs, verbose, path, slp_time):
     #Change the path to where chromedriver is in your home folder.
     driver = webdriver.Chrome(executable_path=path, options=options)
     driver.set_window_size(1120, 1000)
+    #driver.implicitly_wait(15)
+
     
-    url = "https://www.glassdoor.ca/Job/"+keyword+"-jobs-SRCH_KE0,14.htm?clickSource=searchBtn&typedKeyword="+keyword+"&sc.keyword="+keyword+"data%20scientist&locT=&suggestCount=0&jobType=&locId=&suggestChosen=false&countryRedirect=true"
+    url = "https://www.glassdoor.ca/Job/data-scientist-jobs-SRCH_KE0,14.htm?clickSource=searchBtn&typedKeyword="+keyword+"&sc.keyword="+keyword+"data%20scientist&locT=&suggestCount=0&jobType=&locId=&suggestChosen=false&countryRedirect=true"
     #url = "https://www.glassdoor.com/Job/jobs.htm?suggestCount=0&suggestChosen=false&clickSource=searchBtn&typedKeyword="+keyword+"&sc.keyword="+keyword+"&locT=&locId=&jobType="
     #url = 'https://www.glassdoor.com/Job/jobs.htm?sc.keyword="' + keyword + '"&locT=C&locId=1147401&locKeyword=San%20Francisco,%20CA&jobType=all&fromAge=-1&minSalary=0&includeNoSalaryJobs=true&radius=100&cityId=-1&minRating=0.0&industryId=-1&sgocId=-1&seniorityType=all&companyId=-1&employerSizes=0&applicationType=0&remoteWorkType=0'
     driver.get(url)
     jobs = []
+    
+    #WebDriverWait(driver, 15).until(EC.visibility_of_element_located((By.XPATH, '//li[contains(@class,"page-item") and contains(@class,"active")]/following-sibling::li/a'))
+
 
     while len(jobs) < num_jobs:  #If true, should be still looking for new jobs.
 
@@ -39,11 +51,14 @@ def get_jobs(keyword, num_jobs, verbose, path, slp_time):
 
         #Test for the "Sign Up" prompt and get rid of it.
         try:
-            driver.find_element_by_class_name("selected").click()
+            element = WebDriverWait(driver, 10).until(
+            EC.presence_of_element_located((By.CLASS_NAME, "selected"))
+        )
+            element.click()
         except ElementClickInterceptedException:
             pass
 
-        time.sleep(.1)
+        time.sleep(2)
 
         try:
             driver.find_element_by_css_selector('[alt="Close"]').click() #clicking to the X.
@@ -54,14 +69,35 @@ def get_jobs(keyword, num_jobs, verbose, path, slp_time):
 
         
         #Going through each job in this page
-        job_buttons = driver.find_elements_by_class_name("jl")  #jl for Job Listing. These are the buttons we're going to click.
+        # try:
+        #     jobs_count = WebDriverWait(driver, 10).until(
+        #     EC.presence_of_element_located((By.CLASS_NAME, "jobsCount hidden"))
+        #     )
+        #     print(jobs_count.txt)
+        # except:
+        #     print("jobs count not found")
+        
+        # try:
+        #     job_buttons = WebDriverWait(driver, 10).until(
+        #     EC.presence_of_element_located((By.CLASS_NAME, "jl"))
+        #     )
+        #     print('job buttons found \n')
+           
+        # except:
+        #     print('job buttons not found')
+        time.sleep(10)
+        job_buttons = driver.find_elements_by_class_name("jl")  #jl for Job Listing. These are the buttons we're going to click.  
         for job_button in job_buttons:  
-
             print("Progress: {}".format("" + str(len(jobs)) + "/" + str(num_jobs)))
             if len(jobs) >= num_jobs:
                 break
 
-            job_button.click()  #You might 
+            # job_button.click()  #You might 
+            # Wait until element is present - to avoid stale element exception
+            #WebDriverWait(driver, timeout)
+            WebDriverWait(driver,2)
+            
+            driver.execute_script("arguments[0].click();", job_button)
             time.sleep(1)
             collected_successfully = False
             
@@ -185,7 +221,9 @@ def get_jobs(keyword, num_jobs, verbose, path, slp_time):
             
         #Clicking on the "next page" button
         try:
-            driver.find_element_by_xpath('.//li[@class="next"]//a').click()
+           # driver.find_element_by_xpath('.//li[@class="next"]//a').click()
+            next_button=driver.find_element_by_xpath('.//li[@class="next"]//a');
+            driver.execute_script("arguments[0].click();", next_button)
         except NoSuchElementException:
             print("Scraping terminated before reaching target number of jobs. Needed {}, got {}.".format(num_jobs, len(jobs)))
             break
