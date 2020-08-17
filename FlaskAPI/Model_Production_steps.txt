@@ -1,0 +1,87 @@
+In anaconda prompt ..
+
+cd documents
+cd ds_salary_project
+
+Create a directory to store the app
+mkdir FlaskAPI
+
+cd into the directory
+cd FlaskAPI
+
+Create a virtual environment 
+conda create -n flask_env python=3.7
+
+Activate the virtual environment
+conda activate flask_env 
+
+Install all the packages we’ll need
+conda install flask
+conda install pandas
+conda install scikit-learn
+
+Save a list of packages and versions that production will need to install
+pip3 freeze > requirements.txt
+
+To make Files, 
+	we use 'touch' for Linux
+touch app.py
+touch ProcFile
+touch wsgi.py
+
+	Use echo for windows
+echo.> app.py
+echo.> ProcFile
+echo.> wsgi.py
+
+Make dir 
+mkdir models
+
+Copy the following into app.py
+import flask
+from flask import Flask, jsonify, request
+import json
+app = Flask(__name__)
+@app.route('/predict', methods=['GET'])
+def predict():
+ response = json.dumps({'response': 'yahhhh!'})
+ return response, 200
+if __name__ == '__main__':
+ application.run(debug=True)
+
+Copy the following into wsgi.py
+from app import app as application
+if __name__ == "__main__":
+    application.run()
+
+Now, start the app in anaconda prompt
+python wsgi.py
+
+Try making a request to it from another terminal window with
+curl -X GET http://0.0.0.0.5000/predict
+
+Move the pcikeled model to models folder
+
+
+
+def load_models():
+    file_name = "models/model_file.p"
+    with open(file_name, 'rb') as pickled:
+        data = pickle.load(pickled)
+        model = data['model']
+    return model
+
+app = Flask(__name__)
+@app.route('/predict', methods=['GET'])
+
+def predict():
+    # stub input features
+    x = np.array(data_in).reshape(1,-1)
+    # load model
+    model = load_models()
+    prediction = model.predict(x)[0]
+    response = json.dumps({'response': prediction})
+    return response, 200
+
+if __name__ == '__main__':
+    application.run(debug=True)
