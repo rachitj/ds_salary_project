@@ -42,39 +42,41 @@ We have scraped the data using selenium. We have cleaned the data and have follo
 * Perform feature engineerig to extract the information if languages like Python, R ,AWS etc are mentioned in Job Description
 * Some fetaures have been dropped while some have been genrated. Also datatypes have been defined.
 * The final feautures to be used for model building are :
- 0   Job Description       438 non-null    object 
- 1   Rating                438 non-null    float64
- 2   Company Name          438 non-null    object 
- 3   Location              438 non-null    object 
- 4   Headquarters          438 non-null    object 
- 5   Size                  438 non-null    object 
- 6   Founded               438 non-null    int64  
- 7   Type of ownership     438 non-null    object 
- 8   Industry              438 non-null    object 
- 9   Sector                438 non-null    object 
- 10  Revenue               438 non-null    object 
- 11  Competitors           438 non-null    object 
- 12  min_salary            438 non-null    int64  
- 13  max_salary            438 non-null    int64  
- 14  avg_salary            438 non-null    float64
- 15  age_of_company        438 non-null    int64  
- 16  Job_title_simplified  438 non-null    object 
- 17  seniority             438 non-null    object 
- 18  R                     438 non-null    int64  
- 19  python                438 non-null    int64  
- 20  power_bi              438 non-null    int64  
- 21  tableau               438 non-null    int64  
- 22  ms_excel              438 non-null    int64  
- 23  sql                   438 non-null    int64  
- 24  spark                 438 non-null    int64  
- 25  aws                   438 non-null    int64  
- 26  azure                 438 non-null    int64  
- 27  google_cloud          438 non-null    int64  
- 28  scraping              438 non-null    int64  
- 29  api_development       438 non-null    int64  
- 30  machine_learning      438 non-null    int64  
- 31  deep_learning         438 non-null    int64  
- 32  statistics            438 non-null    int64  
+  * Job Description
+  * Rating	
+  * Company Name
+  * Location
+  * Headquarters
+  * Size	
+  * Founded	
+  * Type of ownership
+  * Industry	
+  * Sector	
+  * Revenue	
+  * Competitors	
+  * min_salary	
+  * max_salary	
+  * avg_salary	
+  * age_of_company	
+  * Job_title_simplified	
+  * seniority	
+  * R	
+  * python	
+  * power_bi	
+  * tableau	
+  * ms_excel	
+  * sql	
+  * spark	
+  * aws	
+  * azure	
+  * google_cloud	
+  * scraping	
+  * api_development	
+  * machine_learning	
+  * deep_learning	
+  * statistics	
+  * job_description_len	: Length of job description.This feature halps in understanding if salay has an impact on rles that have been defined well.
+  * num_comp	  : Number of competitors
 
 
 ## Resources
