@@ -8,7 +8,18 @@ This is an ongoing project....
 Analytics is one of the most exciting roles in current times. Using data to tell stories is a huge plus for companies. There are different kind of roles in analytics field such as Data Analyst, Data Scientist, Machine Learning Engineer, Data Engineer etc. As their job-roles and responsibities vary, their salary also varies. Though all these roles require expertise in technologies like R, Python, SQL, Excel, Machine Learning, Deep Learning, API development, Visualization( Tableau and Power BI), Web Scraping etc. The salaries might also vary based on location and several other factors. In this project, we will explore the analytics world of Canada.
 
 ## Objective
-Create an automated tool that helps analytics professional negotiate their salary.
+* Create an automated tool that helps analytics professional negotiate their salary.
+* Collect the salaries data by scraping glassdoor website
+* Perform feture engineerig to extract the information if languages like Python, R ,AWS etc are mentioned in Job Description
+* Perform exploratory data analysis on data and clean the data, perform null value treatment etc.
+* Create and optimize regression models :
+  * Mutiple Linear Regression
+  * Lasso and Ridge Regression
+  * Decision Tree Regressor
+  * SVM Regressor
+  * Random Forest Regressor
+* Prodcutioze the model using Flask API
+  
 
 ## Problem Statement 
 
