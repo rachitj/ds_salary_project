@@ -34,7 +34,8 @@ def get_jobs(keyword, num_jobs, verbose, path, slp_time):
     #driver.implicitly_wait(15)
 
     
-    url = "https://www.glassdoor.ca/Job/data-scientist-jobs-SRCH_KE0,14.htm?clickSource=searchBtn&typedKeyword="+keyword+"&sc.keyword="+keyword+"data%20scientist&locT=&suggestCount=0&jobType=&locId=&suggestChosen=false&countryRedirect=true"
+    #url = "https://www.glassdoor.ca/Job/data-scientist-jobs-SRCH_KE0,14.htm?clickSource=searchBtn&typedKeyword="+keyword+"&sc.keyword="+keyword+"data%20scientist&locT=&suggestCount=0&jobType=&locId=&suggestChosen=false&countryRedirect=true"
+    url= "https://www.glassdoor.ca/Job/us-data-scientist-jobs-SRCH_IL.0,2_IN1_KE3,17.htm"
     #url = "https://www.glassdoor.com/Job/jobs.htm?suggestCount=0&suggestChosen=false&clickSource=searchBtn&typedKeyword="+keyword+"&sc.keyword="+keyword+"&locT=&locId=&jobType="
     #url = 'https://www.glassdoor.com/Job/jobs.htm?sc.keyword="' + keyword + '"&locT=C&locId=1147401&locKeyword=San%20Francisco,%20CA&jobType=all&fromAge=-1&minSalary=0&includeNoSalaryJobs=true&radius=100&cityId=-1&minRating=0.0&industryId=-1&sgocId=-1&seniorityType=all&companyId=-1&employerSizes=0&applicationType=0&remoteWorkType=0'
     driver.get(url)
