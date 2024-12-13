@@ -1,6 +1,5 @@
 # Salary Predictor for Analytics Professionals in Canada
 
-This is an ongoing project....
 
 ![](https://github.com/rachitj/ds_salary_project/blob/data_eda/data-science.png)
 
